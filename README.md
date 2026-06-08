@@ -91,6 +91,6 @@ MSBTE | 78%
 
 📧 [suryawanshikunal41@gmail.com](mailto:suryawanshikunal41@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin-profile
+💼 LinkedIn: https://linkedin.com/in/kunal-suryawanshi-710344221
 
 📍 Sinnar, Nashik, Maharashtra
