@@ -1,6 +1,9 @@
 # Hi, I'm Kunal Suryawanshi 👋
 
 ## Mechanical Engineer | SAP MM Certified | Production & Quality Professional
+![SAP MM](https://img.shields.io/badge/SAP-MM-blue)
+![Mechanical](https://img.shields.io/badge/Mechanical-Engineer-green)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Professional-red)
 
 Mechanical Engineering graduate with experience in Design, Production, and Quality departments within manufacturing industries. SAP MM certified with knowledge of inventory management, procurement processes, and ERP systems.
 
@@ -86,7 +89,7 @@ MSBTE | 78%
 
 ## Contact
 
-📧 [yourmail@gmail.com](mailto:yourmail@gmail.com)
+📧 [suryawanshikunal41@gmail.com](mailto:suryawanshikunal41@gmail.com)
 
 💼 LinkedIn: https://linkedin.com/in/your-linkedin-profile
 
